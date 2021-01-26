@@ -7,11 +7,11 @@ A simple but fas and customizeable auto clicker.
 Any bans kicks or truble you get for using this is not my issue you have the right to use this or not.
 
 # **Includes**
-**• Clicks per movement**
+**• Clicks per movement**\n
 you can choose how many times it clicks for ever pixel you move
-**• Wait time**
+**• Wait time**\n
 it can click for the amount of time you give it (interval)
-**• Adjustable speeds**
+**• Adjustable speeds**\n
 you can adjust how fast it clicks 
 # **Disclaimer**
 
