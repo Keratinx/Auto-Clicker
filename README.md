@@ -9,15 +9,15 @@ Any bans kicks or truble you get for using this is not my issue you have the rig
 # **Includes**
 **• Clicks per movement**
 
-you can choose how many times it clicks for ever pixel you move
+you can choose how many times it clicks for ever pixel you move.
 
 **• Wait time**
 
-it can click for the amount of time you give it (interval)
+it can click for the amount of time you give it (interval).
 
 **• Adjustable speeds**
 
-you can adjust how fast it clicks 
+you can adjust how fast it clicks.
 
 # **Disclaimer**
 
